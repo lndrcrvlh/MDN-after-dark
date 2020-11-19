@@ -74,7 +74,33 @@ li a.crumb-current-page span {
   color: #f0f4f8;
 }
 
-ol li .breadcrumb-previous::after{
+ol li .breadcrumb-previous::after {
   border: #f0f4f8;
 }
 
+div.wiki-left-present aside.document-toc-container {
+  background: #243b53;
+}
+
+aside.document-toc-container section.document-toc {
+  background: #243b53;
+}
+
+section.document-toc h2 {
+  color: #d9e2ec;
+}
+section.document-toc ul li a {
+  color: #bcccdc;
+}
+
+div#sidebar-quicklinks {
+  background: #243b53;
+}
+
+div.quick-links-head {
+  color: #d9e2ec;
+}
+
+div.quick-links ol li a{
+  color: #bcccdc;
+}
