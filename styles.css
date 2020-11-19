@@ -74,8 +74,17 @@ li a.crumb-current-page span {
   color: #f0f4f8;
 }
 
-ol li .breadcrumb-previous::after {
-  border: #f0f4f8;
+a.breadcrumb-chevron span.pre-text ::after {
+  background: white;
+}
+
+.breadcrumbs li a.breadcrumb-chevron::after {
+  border: solid #bcccdc;
+  border-width: 0 2px 2px 0
+}
+.breadcrumbs li a.breadcrumb-previous::after {
+  border: solid #bcccdc;
+  border-width: 0 2px 2px 0
 }
 
 div.wiki-left-present aside.document-toc-container {
@@ -101,6 +110,6 @@ div.quick-links-head {
   color: #d9e2ec;
 }
 
-div.quick-links ol li a{
+div.quick-links ol li a {
   color: #bcccdc;
 }
