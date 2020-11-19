@@ -1,0 +1,80 @@
+/* 
+#f0f4f8
+#d9e2ec
+#bcccdc
+#9fb3c8
+#829AB1
+#627d9b
+#486581
+#334e68
+#243b53
+#102a43
+ */
+
+.page-header {
+  background: #243b53;
+}
+
+.main-nav ul {
+  background: #243b53;
+  color: #d9e2ec;
+}
+
+.main-menu button {
+  background: #243b53;
+  color: #f0f4f8;
+}
+
+.main-menu li .show {
+  background: #334e68;
+  background-color: #334e68;
+  padding: 0px;
+}
+
+.main-menu li .show a {
+  color: #d9e2ec;
+}
+
+.show ul {
+  padding: 0px;
+  color: #d9e2ec;
+}
+
+.logo svg {
+  fill: #f0f4f8 !important;
+}
+
+.titlebar {
+  background: #102a43;
+}
+
+div .titlebar-container {
+  background: #102a43;
+}
+
+.titlebar .title {
+  background: #102a43;
+  color: #d9e2ec;
+}
+
+.max-content-width-container {
+  background: #243b53;
+}
+
+#header-language-menu {
+  background: #243b53;
+  color: #f0f4f8;
+}
+
+.breadcrumbs ol a {
+  color: #f0f4f8;
+}
+
+li a.crumb-current-page span {
+  color: #f0f4f8;
+}
+
+ol li .breadcrumb-previous::after{
+  border: #f0f4f8;
+}
+

@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+  
+    "name": "MDN After Dark",
+    "version": "0.1.0",
+    "description": "Dark Mode theme for Mozilla Developer Network",
+  
+    "content_scripts": [
+      {
+        "css": ["styles.css"],
+        "matches": ["https://developer.mozilla.org/*"]
+      }
+    ]
+  }
+  
