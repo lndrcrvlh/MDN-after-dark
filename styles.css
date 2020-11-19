@@ -113,3 +113,24 @@ div.quick-links-head {
 div.quick-links ol li a {
   color: #bcccdc;
 }
+
+div#content {
+  background: #243b53;
+}
+
+div.article {
+  color: #d9e2ec;
+}
+
+div.blockIndicator {
+  color: #102a43;
+}
+
+div#content h3 {
+  background: #bcccdc;
+  color: #102a43;
+}
+
+table.standard-table a{
+ color: #bcccdc;
+}
