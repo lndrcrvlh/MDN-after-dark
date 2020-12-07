@@ -106,6 +106,14 @@ div#sidebar-quicklinks {
   background: #243b53;
 }
 
+div#sidebar-quicklinks strong {
+  color: #bcccdc;
+}
+
+div#sidebar-quicklinks summary {
+  color: #bcccdc;
+}
+
 div.quick-links-head {
   color: #d9e2ec;
 }
@@ -133,4 +141,12 @@ div#content h3 {
 
 table.standard-table a{
  color: #bcccdc;
+}
+
+table.fullwidth-table {
+  color: #102a43;
+}
+
+table.properties{
+  color: #102a43;
 }
