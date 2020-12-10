@@ -80,11 +80,11 @@ a.breadcrumb-chevron span.pre-text ::after {
 
 .breadcrumbs li a.breadcrumb-chevron::after {
   border: solid #bcccdc;
-  border-width: 0 2px 2px 0
+  border-width: 0 2px 2px 0;
 }
 .breadcrumbs li a.breadcrumb-previous::after {
   border: solid #bcccdc;
-  border-width: 0 2px 2px 0
+  border-width: 0 2px 2px 0;
 }
 
 div.wiki-left-present aside.document-toc-container {
@@ -130,6 +130,10 @@ div.article {
   color: #d9e2ec;
 }
 
+div.note {
+  color: #243b53;
+}
+
 div.blockIndicator {
   color: #102a43;
 }
@@ -139,14 +143,14 @@ div#content h3 {
   color: #102a43;
 }
 
-table.standard-table a{
- color: #bcccdc;
+table.standard-table a {
+  color: #bcccdc;
 }
 
 table.fullwidth-table {
   color: #102a43;
 }
 
-table.properties{
+table.properties {
   color: #102a43;
 }
